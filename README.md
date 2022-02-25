@@ -1,5 +1,7 @@
 # Hi, I'm Janiele! :D
 
+<p> Sou graduanda em Pedagogia, mas movida pela paixão despertada pelas linhas de códigos, me encontro na tentativa de ingressar na área de desenvolvimento e TI, e como pontapé inicial para essa trilha, estou participando do Bootcamp MRV Fullstack Developer da Digital Innovation One - DIO. </p>
+
 <div align="center">
   <a href="https://github.com/janieledamasceno">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=janieledamasceno&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
