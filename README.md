@@ -12,9 +12,8 @@
 </div>
 <hr>
 <div align="center">
-    <a href="https://www.linkedin.com/in/janiele-damasceno-bispo-40695b192/" target="_blank" style='align:center'><img height="40" src="https ://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></
+    <a href="https://www.linkedin.com/in/janiele-damasceno-bispo-40695b192/" target="_blank" style='align:center'><img height="40" src="="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>"_blank"></a>
+   <!-- ![Snake animation](https://github.com/janieledamasceno/janieledamasceno/blob/output/github-contribution-grid-snake.svg) -->
 
-   <!-- ![Animação de cobra](https://github.com/janieledamasceno/janieledamasceno/blob/output/github-contribution-grid-snake.svg) -->
-
-</div>
-<hr>
+ </div>
+ <hr>
