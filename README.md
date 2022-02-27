@@ -1,6 +1,6 @@
 # Hi, I'm Janiele! 😊
 
-<p> Possuo formação técnica em Logística e atualmente sou graduanda em Pedagogia (aí você me pergunta como eu vim parar no mundo dev: é uma longa história! 😂). Enfim, movida pela paixão despertada pelas linhas de códigos, me encontro na tentativa de ingressar na área de desenvolvimento e TI, e como pontapé inicial para essa trilha, estou participando do Bootcamp MRV Fullstack Developer da Digital Innovation One - DIO. </p>
+<p> Possuo formação técnica em Logística e atualmente sou graduanda em Pedagogia (aí você me pergunta: "mulher, como tu fostes parar no mundo dev?" É uma longa história! 😂). Enfim, movida pela paixão despertada pelas linhas de códigos, me encontro na tentativa de ingressar na área de desenvolvimento e TI, e como pontapé inicial para essa trilha, estou participando do Bootcamp MRV Fullstack Developer da Digital Innovation One - DIO visando adquirir conhecimentos e me preparar para desenvolver um ótimo trabalho quando a minha oportunidade chegar. </p>
 
 <div align="center">
   <a href="https://github.com/janieledamasceno">
