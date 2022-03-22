@@ -1,7 +1,7 @@
 # <h1 align="center"> Olá! Eu sou Janiele e sejam muito bem vindos(as) ao meu perfil no GitHub! </h1>
 
-- <h3> Sou técnica em Logística; </h3>
-- <h3> Atualmente sou graduanda em Pedagogia, ingressa no 7º semestre e estou na tentativa de ingressar na área da Programação, resgatando um desejo e uma paixão que tenho pelos códigos desde a minha adolescência; </h3>
+- <h3> Sou técnica em Logística; :mortar_board: </h3>
+- <h3> Atualmente sou graduanda em Pedagogia, ingressa no 7º semestre e estou na tentativa de ingressar na área da Programação, resgatando um desejo e uma paixão que tenho pelos códigos desde a minha adolescência; :computer: :heart: </h3>
 - <h3> Desenvolvedora em formação, com aprendizados teóricos e práticos em tecnologias como: HTML, CSS, Bootstrap e JavaScript; </h3>
 - <h3> atualmente estou aprimorando o que já sei e adquirindo novos cohecimentos sobre ReactJS, Aplicações com API, NodeJs e C# </h3>
 
