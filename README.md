@@ -1,4 +1,4 @@
-# <h1 align="center"> Olá! Eu sou Janiele e sejam muito bem vindos(as) ao meu perfil no GitHub! </h1>
+# <h1 align="center"> Olá! Eu sou Janiele e sejam muito bem vindos(as) ao meu perfil no GitHub! :relaxed: </h1>
 
 - <h3> Sou técnica em Logística; :mortar_board: </h3>
 - <h3> Atualmente sou graduanda em Pedagogia, ingressa no 7º semestre e estou na tentativa de ingressar na área da Programação, resgatando um desejo e uma paixão que tenho pelos códigos desde a minha adolescência; :computer: :heart: </h3>
