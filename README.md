@@ -1,9 +1,9 @@
 # <h1 align="center"> Olá! Eu sou Janiele e sejam muito bem vindos(as) ao meu perfil no GitHub! </h1>
 
-<h4> Sou técnica em Logística; </h4>
-<h4> Atualmente sou graduanda em Pedagogia, ingressa no 7º semestre e estou na tentativa de ingressar na área da Programação, resgatando um desejo e uma paixão que tenho pelos códigos desde a minha adolescência; </h4>
-<h4> Desenvolvedora em formação, com aprendizados teóricos e práticos em tecnologias como: HTML, CSS, Bootstrap e JavaScript; </h4>
-<h4> atualmente estou aprimorando o que já sei e adquirindo novos cohecimentos sobre ReactJS, Aplicações com API, NodeJs e C# </h4>
+- <h4> Sou técnica em Logística; </h4>
+- <h4> Atualmente sou graduanda em Pedagogia, ingressa no 7º semestre e estou na tentativa de ingressar na área da Programação, resgatando um desejo e uma paixão que tenho pelos códigos desde a minha adolescência; </h4>
+- <h4> Desenvolvedora em formação, com aprendizados teóricos e práticos em tecnologias como: HTML, CSS, Bootstrap e JavaScript; </h4>
+- <h4> atualmente estou aprimorando o que já sei e adquirindo novos cohecimentos sobre ReactJS, Aplicações com API, NodeJs e C# </h4>
 
 <div align="center">
   <a href="https://github.com/janieledamasceno">
