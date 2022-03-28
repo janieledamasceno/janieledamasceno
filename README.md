@@ -25,13 +25,4 @@
       <a href="mailto:"janieledamasceno97@gmail.com" "alt="gmail" target="_blank"> <img height="35" <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&mailto:"janieledamasceno97@gmail.com"></a>
   
   ![snake gif](https://github.com/janieledamasceno/janieledamasceno/blob/output/github-contribution-grid-snake.svg)
-
- </div>
-  <h3> Visitantes </h3>  
-
- <div>
-
-  <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=alexsgross&color=green" alt="alexsgross" /> <br>
-
- </div>  
  <hr>
