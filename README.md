@@ -2,19 +2,20 @@
 
 - <h3> Possuo formação técnica em Logística; :mortar_board: </h3>
 - <h3> Sou graduanda em Pedagogia, ingressa no 7º semestre e estou na tentativa de ingressar na área da Programação, resgatando um desejo e uma paixão que tenho pelos códigos desde a minha adolescência; :computer: :heart: </h3>
-- <h3> Desenvolvedora em formação, com aprendizados teóricos e práticos em tecnologias como: HTML, CSS, Bootstrap e JavaScript; </h3>
+- <h3> Desenvolvedora em formação, com aprendizados teóricos e práticos em: HTML, CSS, Bootstrap e JavaScript; </h3>
 - <h3> Atualmente estou aprimorando o que já sei e adquirindo novos cohecimentos sobre ReactJS, Aplicações com API, NodeJs e C# </h3>
 
 <div align="center">
   <a href="https://github.com/janieledamasceno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=janieledamasceno&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janieledamasceno&layout=top-langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=janieledamasceno&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janieledamasceno&layout=top-langs_count=7&theme=midnight-purple"/>
 </div>
 
 <div align="center"><br>
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
    <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg">
    <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
 </div>
