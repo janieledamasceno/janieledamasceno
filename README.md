@@ -1,12 +1,12 @@
 # <h1 align="center"> Olá! Eu sou Janiele! <br> Sejam muito bem vindos(as) ao meu perfil no GitHub! :relaxed: </h1>
 
-- Sou graduanda em Pedagogia, ingressa no 7º semestre e estou na tentativa de ingressar na área da Programação, resgatando um desejo e uma paixão que tenho pelos códigos desde a minha adolescência; :computer: :heart:
-- Iniciei essa jornada em outubro de 2021;
-- Desenvolvedora em formação, com aprendizados teóricos e práticos em: HTML, CSS, Bootstrap e JavaScript;
-- Atualmente estou aprimorando o que já sei e adquirindo novos cohecimentos sobre ReactJS, Aplicações com API, NodeJs e C#;
+## - Sou graduanda em Pedagogia, ingressa no 7º semestre e estou na tentativa de ingressar na área da Programação, resgatando um desejo e uma paixão que tenho pelos códigos desde a minha adolescência; :computer: :heart:
+## - Iniciei essa jornada em outubro de 2021;
+## - Desenvolvedora em formação, com aprendizados teóricos e práticos em: HTML, CSS, Bootstrap e JavaScript;
+## - Atualmente estou aprimorando o que já sei e adquirindo novos cohecimentos sobre ReactJS, Aplicações com API, NodeJs e C#;
 
 <div align="center"
-- <h4> “Entenda os seus medos, mas jamais deixe que eles sufoquem os seus sonhos”. :sparkles: <br> (Alice no País das Maravilhas) <h4>
+- <h3> “Entenda os seus medos, mas jamais deixe que eles sufoquem os seus sonhos”. :sparkles: <br> (Alice no País das Maravilhas) <h3>
   </div>
 
 <div align="center">
