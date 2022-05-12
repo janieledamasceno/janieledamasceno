@@ -1,6 +1,6 @@
 # <h1 align="center"> Olá! Eu sou Janiele! <br> Sejam muito bem vindos(as) ao meu perfil no GitHub! :relaxed: </h1>
 
-- Sou graduanda em Pedagogia, ingressa no 7º semestre e estou na tentativa de ingressar na área da Programação, resgatando um desejo e uma paixão que tenho pelos códigos desde a minha adolescência; :computer: :heart:
+- Sou graduanda em Pedagogia, ingressa no 7º semestre e estou na tentativa de migrar para a área de Programação, resgatando um desejo e uma paixão que tenho pelos códigos desde a minha adolescência; :computer: :heart:
 - Iniciei essa jornada em outubro de 2021;
 - Desenvolvedora em formação, com aprendizados teóricos e práticos em: HTML, CSS, Bootstrap e JavaScript;
 - Atualmente estou aprimorando o que já sei e adquirindo novos cohecimentos sobre ReactJS, Aplicações com API, NodeJs e C#;
