@@ -3,10 +3,10 @@
 - Sou graduanda em Pedagogia, ingressa no 7º semestre e estou na tentativa de migrar para a área de Programação, resgatando um desejo e uma paixão que tenho pelos códigos desde a minha adolescência; :computer: :heart:
 - Iniciei essa jornada em outubro de 2021;
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src=""></a>
+## Find me around the web 🌎: <a href="https://github.com/janieledamasceno"><img align="left" width="150" height="200" src="img1.png"></a>
 
-- Acesse meus projetos no <a href="https://janiele-damasceno.vercel.app/"> Meu Portfólio</a>
-- Entre em contato comigo pelo <a href="https://www.linkedin.com/in/janiele-damasceno-bispo-40695b192/"> LinkedIn</a>
+Acesse meus projetos no <a href="https://janiele-damasceno.vercel.app/"> Meu Portfólio</a> <br>
+Entre em contato comigo pelo <a href="https://www.linkedin.com/in/janiele-damasceno-bispo-40695b192/"> LinkedIn</a>
 
 <div align="center"
 - <h3> “Entenda os seus medos, mas jamais deixe que eles sufoquem os seus sonhos”. :sparkles: <br> (Alice no País das Maravilhas) <h3>
@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://github.com/janieledamasceno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=janieledamasceno&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=janieledamasceno&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
 
 <div align="center"><br>
