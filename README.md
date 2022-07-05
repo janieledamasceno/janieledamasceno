@@ -3,7 +3,7 @@
 - Desenvolvedora Front-end; :computer: :heart:
 - Iniciei essa jornada de estudos em desenvolvimento web em outubro de 2021;
 
-## Find me around the web 🌎: <a href="https://github.com/janieledamasceno"><img align="left" width="150" height="200" src="img1.png"></a>
+## Find me around the web 🌎: <a href="https://github.com/janieledamasceno"></a>
 
 Acesse meus projetos no <a href="https://janieledamasceno-site.vercel.app/"> Meu Portfólio</a> <br>
 Entre em contato comigo pelo <a href="https://www.linkedin.com/in/janiele-damasceno-bispo-40695b192/"> LinkedIn</a>
