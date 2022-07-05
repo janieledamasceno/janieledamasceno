@@ -5,7 +5,7 @@ Sou graduanda em Pedagogia, ingressa no 7º semestre e estou na tentativa de mig
 
 ## Find me around the web 🌎: <a href="https://github.com/janieledamasceno"><img align="left" width="150" height="200" src="img1.png"></a>
 
-Acesse meus projetos no <a href="https://janiele-damasceno.vercel.app/"> Meu Portfólio</a> <br>
+Acesse meus projetos no <a href="https://janieledamasceno-site.vercel.app/"> Meu Portfólio</a> <br>
 Entre em contato comigo pelo <a href="https://www.linkedin.com/in/janiele-damasceno-bispo-40695b192/"> LinkedIn</a>
 
 <div align="center"
