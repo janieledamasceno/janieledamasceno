@@ -1,4 +1,4 @@
-# <h1 align="center"> Olá! Eu sou Janiele Damasceno! <br> Sejam muito bem vindos(as) ao meu perfil no GitHub! :relaxed: </h1>
+# <h1 align="center"> Olá, Devs! Eu sou Janiele Damasceno! <br> Sejam muito bem vindos(as) ao meu perfil no GitHub! :relaxed: </h1>
 
 - Desenvolvedora Front-end; :computer: :heart:
 - Iniciei essa jornada de estudos em desenvolvimento web em outubro de 2021;
